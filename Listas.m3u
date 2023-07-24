@@ -1,9 +1,54 @@
-#EXTM3U
-#EXTINF:-1, True01.01
-https://v1.paradisehill.cc/video/1504142255_170__part_1.mp4
-#EXTINF:-1, True01.02
-https://v1.paradisehill.cc/video/1504142255_170__part_2.mp4
-#EXTINF:-1, True01.03
-https://b-hls-08.doppiocdn.com/hls/105109188/105109188.m3u8
-#EXTINF:-1,  True01.04
-https://b-hls-01.doppiocdn.com/hls/82805402/82805402.m3u8
+#EXTM3U 
+#EXTINF:-1, True01.1 
+https://v1.paradisehill.cc/video/1504142255_170__part_1.mp4 
+#EXTINF:-1, True01.2 
+https://v1.paradisehill.cc/video/1504142255_170__part_2.mp4 
+#EXTINF:-1, True01.3 
+https://v1.paradisehill.cc/video/1504142255_170__part_3.mp4
+#EXTINF:-1, True01.4 
+https://v1.paradisehill.cc/video/1504142255_170__part_4.mp4
+#EXTINF:-1, True05.1
+https://v1.paradisehill.cc/video/1504142255_191__part_1.mp4
+#EXTINF:-1, True05.2
+https://v1.paradisehill.cc/video/1504142255_191__part_2.mp4
+#EXTINF:-1, True05.3
+https://v1.paradisehill.cc/video/1504142255_191__part_3.mp4
+#EXTINF:-1, True05.4
+https://v1.paradisehill.cc/video/1504142255_191__part_4.mp4
+#EXTINF:-1, True07.1
+https://v1.paradisehill.cc/video/1504142255_198__part_1.mp4
+#EXTINF:-1, True07.2
+https://v1.paradisehill.cc/video/1504142255_199__part_1.mp4
+#EXTINF:-1, True07.3
+https://v1.paradisehill.cc/video/1504142255_200__part_1.mp4
+#EXTINF:-1, True07.4
+https://v1.paradisehill.cc/video/1504142255_201__part_1.mp4
+#EXTINF:-1, True07.5
+https://v1.paradisehill.cc/video/1504142255_202__part_1.mp4
+#EXTINF:-1, True07.6
+https://v1.paradisehill.cc/video/1504142255_203__part_1.mp4
+#EXTINF:-1, True20.1
+https://v1.paradisehill.cc/video/1504142255_229__part_1.mp4
+#EXTINF:-1, True20.2
+https://v1.paradisehill.cc/video/1504142255_229__part_2.mp4
+#EXTINF:-1, True20.3
+https://v1.paradisehill.cc/video/1504142255_230__part_1.mp4
+#EXTINF:-1, True20.4
+https://v1.paradisehill.cc/video/1504142255_230__part_2.mp4
+#EXTINF:-1, True21.1
+https://v1.paradisehill.cc/video/1504142255_231__part_1.mp4
+#EXTINF:-1, True21.2
+https://v1.paradisehill.cc/video/1504142255_231__part_2.mp4
+#EXTINF:-1, True21.3
+https://v1.paradisehill.cc/video/1504142255_232__part_1.mp4
+#EXTINF:-1, True21.4
+https://v1.paradisehill.cc/video/1504142255_232__part_2.mp4
+#EXTINF:-1, True22.1
+https://v1.paradisehill.cc/video/1504142255_233__part_1.mp4
+#EXTINF:-1, True22.2
+https://v1.paradisehill.cc/video/1504142255_233__part_2.mp4
+#EXTINF:-1, True22.3
+https://v1.paradisehill.cc/video/1504142255_233__part_3.mp4
+#EXTINF:-1, True22.4
+https://v1.paradisehill.cc/video/1504142255_233__part_4.mp4
+
